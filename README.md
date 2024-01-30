@@ -1,4 +1,4 @@
-##Simulating a Tic-Tac-Toe Game
+## Simulating a Tic-Tac-Toe Game
 
 #### Introduction
 
